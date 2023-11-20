@@ -1,16 +1,4 @@
 # flutter_app_3
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![img1](https://github.com/PetDama/Flutter_App_3/assets/94162879/0f3c57ea-246b-4e69-a071-3c427474416c)
+![img3](https://github.com/PetDama/Flutter_App_3/assets/94162879/1323f762-9876-4a12-a44b-7f7a6499316f)
+![img2](https://github.com/PetDama/Flutter_App_3/assets/94162879/5656fa0f-53f5-4aa5-abe8-c1cceae57efc)
